@@ -1,0 +1,9 @@
+import './admin-user';
+import './profile-edit-profile';
+import './profile-edit-password';
+import './about';
+import './skill';
+import './pengalaman';
+import './pendidikan';
+import './wawasan';
+import './portfolio';
